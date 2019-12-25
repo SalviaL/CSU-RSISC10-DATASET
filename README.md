@@ -5,6 +5,7 @@ When you use this dataset please cite this project.
 ![Two-level Construction](fig.png)
 ## Categories
 The categories and number of data in train and test dataset.
+
 | Scene Class      | Sub\-class components                                                                    | Train | Test |
 | ---------------- | ---------------------------------------------------------------------------------------- | ----- | ---- |
 | Road             | Railway, highway, overpass, intersection and general road                                | 17129 | 2480 |
