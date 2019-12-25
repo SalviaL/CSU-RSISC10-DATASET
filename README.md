@@ -1,4 +1,5 @@
 # CSU-RSISC10-DATASET
+dataset link: https://pan.baidu.com/s/12-DgF3ZiuSi0dnfg-xM7iw
 This dataset is for urban scene classification and built by Chao Tao, Weipeng Lu, Ji Qi and Hao Wang of Central South University. This dataset is composed by two levels: sample and patch.
 The size of a sample is $2000\times2000$ and the size of a patch is $100\times 100$
 When you use this dataset please cite this project.
