@@ -1,4 +1,4 @@
-# CSU-RSISC10-DATASET
+# CSU-RSISC-DATASET
 
 ## Updata Info.(Apr. 3rd)
 More natural catogeries are added to CSU-RSISC. Now all patches are classified into 15 typical urban and natural scenes categories, including road, commercial area, industrial area, residential area, redeveloped area, institutional organization, harbor, open space, airport, ocean, inland water, mountain, barren, forest, and field. 
