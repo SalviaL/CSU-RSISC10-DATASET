@@ -5,9 +5,6 @@ More natural catogeries are added to CSU-RSISC. Now all patches are classified i
 ## Dataset link:
 Baidu disk: https://pan.baidu.com/s/12-DgF3ZiuSi0dnfg-xM7iw
 
-Google drive: https://drive.google.com/open?id=1qU2s0HIZanF9OqwkwX0zy6wruCIr127A
-(New data will be updated in the near future)
-
 ## Introduction
 This dataset is for urban scene classification and built by Chao Tao, Weipeng Lu, Ji Qi and Hao Wang of Central South University. This dataset is composed by two levels: sample and patch.
 The size of a sample is 2000×2000 and the size of a patch is 100×100. When you use this dataset, please cite this project.
